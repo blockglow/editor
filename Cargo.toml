@@ -2,6 +2,10 @@
 name = "editor"
 version = "0.1.1"
 edition = "2021"
+authors = ["Sol Midnight <sol.midnight@blockglow.com>"]
+description = "Terminal editor thing. Does not work yet."
+repository = "https://github.com/blockglow/editor"
+license = "MIT"
 
 [dependencies]
 crossterm = "0.27.0"
